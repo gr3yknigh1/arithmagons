@@ -1,5 +1,3 @@
 # Arithmagons
 
-This is solution for arithmagons problem.
-[Link](https://nrich.maths.org/2670)
-
+This is the solution for the [arithmagon problem](https://nrich.maths.org/2670).
